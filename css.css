@@ -1,0 +1,15 @@
+.class1{
+  width: 700px;
+  height: 300px;
+  border: 1px dotted grey;
+}
+.class2{
+  width: 70px;
+  height: 70px;
+  border: 1px solid black;
+  background: #E9967A;
+  box-shadow: inset 4px 4px 30px white;
+  border-radius: 5px;
+  position: absolute;
+  transition: all 2s;
+}
